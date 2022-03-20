@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3254a177e1db6bc4aa6415cfebedc8e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explanationImage: {instanceID: 0}
+  - defaultSprite: {instanceID: 0}
+  - Card2DPrefab: {fileID: 7979928587107179548, guid: 950e81aa8108d9e4cab3c64b4afa7276, type: 3}
+  - hand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
